@@ -1,0 +1,12 @@
+{
+  "require": {
+    "illuminate/database": "*" ,
+    "twig/twig":"*",
+    "klein/klein": "^2.1"
+  },
+  "autoload": { 
+    "classmap": [
+      "core"
+    ]
+  }
+}
